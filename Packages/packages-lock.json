@@ -179,7 +179,7 @@
       }
     },
     "com.unity.scriptablebuildpipeline": {
-      "version": "1.21.24",
+      "version": "1.21.23",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
@@ -197,8 +197,8 @@
       "depth": 2,
       "source": "registry",
       "dependencies": {
-        "com.unity.burst": "1.7.2",
-        "com.unity.collections": "2.1.4"
+        "com.unity.collections": "2.1.4",
+        "com.unity.burst": "1.7.2"
       },
       "url": "https://packages.unity.com"
     },
@@ -246,9 +246,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.director": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.particlesystem": "1.0.0"
       },
       "url": "https://packages.unity.com"
